@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 **Skills:**
 - Languages: HTML/CSS, Java, Python, C++
-- Frameworks: React.js, Spring Boot
+- Frameworks: Flask, Streamlit, React.js, Spring Boot
 - Machine Learning: TensorFlow, Scikit-learn
 <!--
 **Current Projects:**
