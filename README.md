@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 - 🎓 B.Tech graduate with a specialization in Machine learning and Web Development.
 - 🖥️ Passionate about Machine Learning, AI, and Full-Stack Development
 - 🔭 I’m currently applying for internships in the fintech and software development sectors
-- 📫 Reach me at: [email@example.com](aximdass@example.com)
+- 📫 Reach me at: [aximdass@gmail.com]
 
 **Skills:**
 - Languages: HTML/CSS, Java, Python, C++
